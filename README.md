@@ -29,19 +29,19 @@ The TTX scenario is a choose your own adventure exercise, with rewards (hints) f
 4. Scenario Summary
 Following industry best practice (MITRE Cyber Exercise Playbook) Information Security created a scenario with a choose your own adventure style twist. The scenario focused on situations that have happened at ACME in past incidents. Information Security also focused on incidents that have occurred within the past few quarters within the larger Information Industry. These incidents included the following;
 
-•	Social media account takeover by miscreants
+  •	Social media account takeover by miscreants
 
-•	External media questioning
+  •	External media questioning
 
-•	Malware outbreak
+  •	Malware outbreak
 
-•	Normal daily alerts
-  o	Compromised asset
-  o	Data exfiltration
+  •	Normal daily alerts
+    o	Compromised asset
+    o	Data exfiltration
   
-•	Physical security intrusion
+  •	Physical security intrusion
 
-•	Major service offering outage (Customer Portal)
+  •	Major service offering outage (Customer Portal)
 
 5. Scenario Goal
 Establish a baseline for future exercises; raise CSIRT awareness and skill.
@@ -74,5 +74,5 @@ a. All other works within the directory waive the copyright and related rights i
 
 IV. Team
 --------------------
-Jamison Budacki - jamison.budacki@erieinsurance.com
-Adam Dzuricky - adam.dzuricky@erieinsurance.com
+Jamison Budacki - jbudacki@gmail.com
+Adam Dzuricky - 
