@@ -30,12 +30,17 @@ The TTX scenario is a choose your own adventure exercise, with rewards (hints) f
 Following industry best practice (MITRE Cyber Exercise Playbook) Information Security created a scenario with a choose your own adventure style twist. The scenario focused on situations that have happened at ACME in past incidents. Information Security also focused on incidents that have occurred within the past few quarters within the larger Information Industry. These incidents included the following;
 
 •	Social media account takeover by miscreants
+
 •	External media questioning
+
 •	Malware outbreak
+
 •	Normal daily alerts
   o	Compromised asset
   o	Data exfiltration
+  
 •	Physical security intrusion
+
 •	Major service offering outage (Customer Portal)
 
 5. Scenario Goal
