@@ -3,16 +3,27 @@
 I. File list
 ----------------------
 acme.png    Fictitious company logo
+
 MITRE-cyber-exercise-playbook.pdf     Cyber Exercise Playbook - Jason Kick
+
 NIST 800-84.pdf   Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities
+
 TTX After Action Report Template.docx   Template of a after action Report
+
 TTX Charter Template.docx   Template of a TTX Charter
+
 TTX Flow Chart Template.pdf   Template of the possible paths to be taken during the TTX
+
 TTX Flow Chart Template Results.pdf   Template of the paths taken during the TTX
+
 TTX Outline Template.docx   Template of the script for the TTX
+
 TTX Scribe Form Template.docx   Template for the designated scribes for note taking
+
 TTX Survey Template.docx    Template of the survey that is to be completed before the TTX is dismissed
+
 /WebApp     The folder of the templatized web application that the participants will follow. The first screen is Introduction.html
+
 
 
 II. Table Top Exercise Overview
@@ -36,8 +47,10 @@ Following industry best practice (MITRE Cyber Exercise Playbook) Information Sec
   •	Malware outbreak
 
   •	Normal daily alerts
-    o	Compromised asset
-    o	Data exfiltration
+   
+   o	Compromised asset
+   
+   o	Data exfiltration
   
   •	Physical security intrusion
 
