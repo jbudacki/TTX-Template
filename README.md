@@ -1,6 +1,6 @@
 # TTX-Template
 
-I. File list
+## I. File list
 ----------------------
 acme.png    Fictitious company logo
 
@@ -26,7 +26,7 @@ TTX Survey Template.docx    Template of the survey that is to be completed befor
 
 
 
-II. Table Top Exercise Overview
+## II. Table Top Exercise Overview
 --------------------
 1. Where to start?
 Read the MIRTE Cyber Exercise Playbook and well as the NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities.
@@ -39,7 +39,7 @@ The TTX scenario is a choose your own adventure exercise, with rewards (hints) f
 
 4. Scenario Summary
 Following industry best practice (MITRE Cyber Exercise Playbook) Information Security created a scenario with a choose your own adventure style twist. The scenario focused on situations that have happened at ACME in past incidents. Information Security also focused on incidents that have occurred within the past few quarters within the larger Information Industry. These incidents included the following;
-
+```
   •	Social media account takeover by miscreants
 
   •	External media questioning
@@ -55,7 +55,7 @@ Following industry best practice (MITRE Cyber Exercise Playbook) Information Sec
   •	Physical security intrusion
 
   •	Major service offering outage (Customer Portal)
-
+```
 5. Scenario Goal
 Establish a baseline for future exercises; raise CSIRT awareness and skill.
 
@@ -69,7 +69,7 @@ The first inject is on slide1a.html and links to an artifact titled loki.html. M
 The rest of the scenario follows the TTX Outline Template and the TTX Flow Chart Template.
 
 
-III. License
+## III. License
 --------------------
 This project includes a mix of the following:
 
@@ -85,7 +85,7 @@ b. NIST Special Publication 800-84, Guide to Test, Training, and Exercise Progra
 
 a. All other works within the directory waive the copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication. You can copy, modify, distribute and perform the work, all without asking permission.
 
-IV. Team
+## IV. Team
 --------------------
 Jamison Budacki - jbudacki@gmail.com
 Adam Dzuricky - 
