@@ -2,7 +2,7 @@
 
 I. File list
 ----------------------
-- acme.png    Fictitious company logo
+- Acme.png    Fictitious company logo
 
 - MITRE-cyber-exercise-playbook.pdf     Cyber Exercise Playbook - Jason Kick
 
