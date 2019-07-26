@@ -1,6 +1,6 @@
 # TTX-Template
 
-I. File list
+File list
 ----------------------
 - Acme.png    Fictitious company logo
 
@@ -26,7 +26,7 @@ I. File list
 
 
 
-II. Table Top Exercise Overview
+Table Top Exercise Overview
 --------------------
 1. Where to start?
 Read the MIRTE Cyber Exercise Playbook and well as the NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities.
@@ -65,7 +65,7 @@ The first inject is on slide1a.html and links to an artifact titled loki.html. M
 The rest of the scenario follows the TTX Outline Template and the TTX Flow Chart Template.
 
 
-III. License
+License
 --------------------
 This project includes a mix of the following:
 
@@ -85,7 +85,7 @@ Open source work that is in the public domain
 • All other works within the directory waive the copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication. You can copy, modify, distribute and perform the work, all without asking permission.
 ```
 
-IV. Team
+Team
 --------------------
 Jamison Budacki - jbudacki@gmail.com
 
