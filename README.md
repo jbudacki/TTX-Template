@@ -72,14 +72,14 @@ This project includes a mix of the following:
 Copy written works that are in the public domain
 Open source work that is in the public domain
 
-1. Copy Written work includes
+Copy Written work includes
 
 ```
 • The MITRE Cyber Exercise Playbook, Jason Kick, ©2014 The MITRE Corporation. All rights reserved.
 • NIST Special Publication 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities
 ```
 
-2. Open source work includes
+Open source work includes
 
 ```
 • All other works within the directory waive the copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication. You can copy, modify, distribute and perform the work, all without asking permission.
