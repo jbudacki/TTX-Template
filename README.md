@@ -79,7 +79,7 @@ Open source work that is in the public domain
 • NIST Special Publication 800-84, Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities
 ```
 
-1. Open source work includes
+2. Open source work includes
 
 ```
 • All other works within the directory waive the copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication. You can copy, modify, distribute and perform the work, all without asking permission.
