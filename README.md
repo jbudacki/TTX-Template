@@ -29,7 +29,7 @@ File list
 Table Top Exercise Overview
 --------------------
 1. Where to start?
-Read the MIRTE Cyber Exercise Playbook and well as the NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities.
+Read the MITRE Cyber Exercise Playbook and well as the NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities.
 
 2. What it is?
 Table Top Exercise (TTX) for Computer Security Incident Response (CSIRT) teams. The templatized artifacts provided will hopefully help teams facilitate  their own table top exercises.
